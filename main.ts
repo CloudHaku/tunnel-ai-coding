@@ -1,5 +1,5 @@
 player.onChat("buildtunnel", function () {
-        // 通道參數
+        // 通道參數a
             let tunnelLength = 20; // L 格，通道長度
                 let tunnelHalfWidth = 6; // 半寬：6格
                     let tunnelHalfHeight = 6; // 半高：6格
